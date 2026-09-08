@@ -1,4 +1,5 @@
-# THE TACTICAL ECHO — The Chrono-Archive
+# THE TACTICAL ECHO — The Chrono-Archive    https://tactical-3ag51vgq1-dhurgham-s-projects.vercel.app/
+
 
 A single-file, self-contained browser game (no build step, no dependencies). Open
 `tactical_echo.html` in any modern desktop or mobile browser and play.
